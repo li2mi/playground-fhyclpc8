@@ -3,7 +3,8 @@
 This Python template lets you get started quickly with a simple one-page playground.
 
 ```python runnable
-print('Hello World!')
+a=12
+print(a,'Hello World!')
 ```
 
 # Advanced usage
